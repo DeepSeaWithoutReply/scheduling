@@ -1,0 +1,5 @@
+HOST:
+PORT: 3306
+DBNAME: "myDb"
+USER:
+PWD:

@@ -1,0 +1,10 @@
+jobs: 100
+has_release_time: 1
+has_due_time: 1
+has_precedence_constraints: 0
+has_weight: 1
+machines: 10
+machine_identical: 1
+has_setup_time: 0
+input_data: parallel
+initial_max_lateness_ration: 0.1
